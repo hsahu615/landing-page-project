@@ -1,0 +1,21 @@
+*{
+  margin: 0 ;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-bar{
+  height: 200px;
+  background-color: #1F2937;
+}
+.nav-list{
+  display: flex;
+  color: wheat;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: 50px ;
+}
+.nav-list li{
+  width: 35%;
+  
+}
